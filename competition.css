@@ -1,0 +1,181 @@
+#a{
+    height:75%;
+    width:75%;
+}
+#btn1{
+    border: 2px solid blue;
+    color: blue;
+}
+#btn1:hover{
+    color: blue;
+}
+span{
+    font-size: 18px;
+}
+.card{
+    border: none;
+}
+#divi{
+    height:90px;
+    width:90px;
+    border-radius:250px;
+}
+#i1{
+    font-size: 40px;
+    color: white;
+}
+#i2{
+    font-size: 40px;
+    color: white;
+    margin-left: -3px;
+}
+#pi{
+    color: grey;
+}
+#img2{
+    height: 100%;
+    width: 70%;
+
+}
+#p1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#prog{
+    height:4%;
+    width:80%;
+}
+#img3{
+    height: 100%;
+    width: 70%;
+}
+#p3{
+    padding-top: 30px;
+    color: grey;
+    font-size: 18px;
+}
+#i3{
+    color:  #2265d8;
+}
+#p5{
+    color: grey;
+}
+.div5{
+    height: 500px;
+    width: 400px;
+}
+#img5{
+    height: 250px;
+    width: 350px;
+    margin: 25px;
+}
+h3{
+    margin-left: 20px;
+}
+#p5{
+    margin-left: 20px;
+}
+#prog1{
+    height:2%;
+    width:70%;
+}
+#div6{
+    background-color: blue;
+    height:270px;
+    width:1300px;
+}
+#h6{
+    margin: 40px 50px;
+}
+input{
+    height:50px;
+    width: 250px;
+    border-radius: 5px;
+    border:none;
+    padding-left: 20px;
+}
+#b1{
+    height:50px;
+    width: 515px;
+    border-radius: 5px;
+    border:3px solid white;
+    color: white;
+    background-color: blue;
+}
+#b1:hover{
+    background-color: white;
+    color: blue;
+}
+.div71{
+    height:800px;
+    width: 400px;
+    background-color: blue;
+}
+#div71{
+    height: 300px;
+    width: 350px;
+    background-image: url('pic6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.pic1{
+    height: 100vh;
+    display: flex;
+    position: relative;
+    background-color: violet;
+}
+.pic1::before{
+    background-image: url('p5.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.3;
+}
+.id1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+    isolation: isolate;
+    padding-top: 100px;
+}
+.a4{
+    height: 300px;
+    width: 450px;
+    position:absolute;
+    top: 170px;
+}
+
+.btn_b1{
+    isolation: isolate;
+    background-color: blue;
+}
+.btn_b2{
+    background-color: white; 
+    border: none; 
+    isolation: isolate;
+}
+.l_t1{
+    isolation: isolate;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 230px;
+    padding-left: 100px;
+}
+.l_b1{
+    isolation: isolate;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    position: relative;
+    top: 400px;
+    right: 500px;
+}
+.leaf{
+    height: 200px;
+    width: 200px;
+}
